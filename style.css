@@ -26,6 +26,7 @@ article div {
 }
 
 p {
+  text-align: center;
   line-height: 1.5;
 }
 
@@ -68,3 +69,4 @@ a:hover { color: #f77f00;}
  display: block;
  margin: 0 auto;
 }
+

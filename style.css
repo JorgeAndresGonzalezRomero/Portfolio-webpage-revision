@@ -30,6 +30,11 @@ p {
   line-height: 1.5;
 }
 
+h4 {
+  text-align: center;
+  line-height: 1.5;
+}
+
 /* The div container constrains the content width within the main container to 600px */
 div {
   margin: auto;
